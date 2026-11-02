@@ -1,0 +1,25 @@
+.gitignore
+Project Link/backend/campuscare.sql
+Project Link/backend/db.js
+Project Link/backend/package-lock.json
+Project Link/backend/package.json
+Project Link/backend/server.js
+Project Link/database/schema.sql
+Project Link/frontend/.gitignore
+Project Link/frontend/README.md
+Project Link/frontend/eslint.config.js
+Project Link/frontend/index.html
+Project Link/frontend/package-lock.json
+Project Link/frontend/package.json
+Project Link/frontend/public/favicon.svg
+Project Link/frontend/public/icons.svg
+Project Link/frontend/src/App.css
+Project Link/frontend/src/App.jsx
+Project Link/frontend/src/assets/hero.png
+Project Link/frontend/src/assets/react.svg
+Project Link/frontend/src/assets/vite.svg
+Project Link/frontend/src/index.css
+Project Link/frontend/src/main.jsx
+Project Link/frontend/src/supabaseClient.js
+Project Link/frontend/src/vite.config.js
+Project Link/frontend/vite.config.js
